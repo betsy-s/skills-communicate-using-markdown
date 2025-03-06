@@ -14,5 +14,8 @@ Still nothing to say
 /* Updating the file record after writing to the file */
 SELECT 'NOTHING TO SAY' AS COL1;
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 Created md file with headers
